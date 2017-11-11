@@ -1,3 +1,35 @@
+body {
+	background-image: url(../images/stranger-things-background.jpg);
+}
+
+h1, h2 {
+	font-family: 'Amatic SC', cursive;
+
+}
+
+h2    {
+	color: white;
+
+}
+
+.jumbotron {
+	background-color: red;
+}
+
+.jumbotron h1 {
+	font-size: 100px;
+}
+
+.panel-heading h2 {
+	font-size: 50px;
+}
+
+.panel-default > .panel-heading {
+  background-color: black;
+
+}
+
 #right {
         letter-spacing: 3px;
+        font-size: 30px;
       }
